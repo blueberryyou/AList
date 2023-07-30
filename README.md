@@ -1,6 +1,7 @@
-# AList
+# AList牛逼
+## VIP限时抢先体验
+## 欢迎欢迎 热烈欢迎!!!
 AList | blueberry
-# 欢迎来到blueberry的世界
 
 > #### `我是作者blueberry`
 
